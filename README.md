@@ -1,2 +1,2 @@
 # MACD-Pine-Script
-Simple MACD script for TradingView
+The file MACD_Aggressive contains Pine Script code for an agressive MACD trading strategy. Importing this code into TradingView will allow the strategy to be run on any supported financial instrument including stocks, currency pairs, crypto, etc. The MACD_Aggressive strategy opens positions with the cross of the MACD and signal lines and closes open postions when momentum decreases.
